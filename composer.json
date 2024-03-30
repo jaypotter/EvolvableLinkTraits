@@ -1,0 +1,16 @@
+{
+    "name": "potter/evolvable-link-traits",
+    "description": "PHP Evolvable Link Trait Collection",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
